@@ -26,7 +26,7 @@ function App() {
               <img  className="w_100 card_img_radius img_height" src={second} alt="" />
               <p className="font_family_open txt_clr fs_16 fw_400 padding_para">Concetti Di-Lusso ALESANDRDO Luxury <span className="d_block">Turkish Spa Towels and ganic Bamboo</span> <span className="d_block">Robes 12 PC set</span></p>
               <div className="d-flex align_center padding_bttn">
-              <a href="https://www.instagram.com/" className="txt_clr_1 font_family_hind fs_24 fw_600">$169.99</a>
+              <p className="txt_clr_1 font_family_hind fs_24 fw_600">$169.99</p>
               <p className="txt_clr_2 font_family_hind fs_16 fw_400 pading_para linee">$199.99</p>
               <button className="fw_600 font_16 font_family_hind txt_clr_3 bttn_add margin_bttn">ADD CART</button>
               </div>
@@ -35,7 +35,7 @@ function App() {
               <img  className="w_100 card_img_rds img_height" src={third} alt="" />
               <p className="font_family_open txt_clr fs_16 fw_400 padding_para">Concetti Di-Lusso ALESANDRDO Luxury <span className="d_block">Turkish Spa Towels and ganic Bamboo</span> <span className="d_block">Robes 12 PC set</span></p>
               <div className="d-flex align_center padding_bttn">
-              <a href="https://www.instagram.com/" className="txt_clr_1 font_family_hind fs_24 fw_600">$59.99</a>
+              <p className="txt_clr_1 font_family_hind fs_24 fw_600">$59.99</p>
               <p className="txt_clr_2 font_family_hind fs_16 fw_400 pading_para linee">$199.99</p>
               <button className="fw_600 font_16 font_family_hind txt_clr_3 bttn_add margin_bttn">ADD CART</button>
               </div>
@@ -46,7 +46,7 @@ function App() {
               <img  className="w_100 card_img_radius img_height" src={fourth} alt="" />
               <p className="font_family_open txt_clr fs_16 fw_400 padding_para">Concetti Di-Lusso ALESANDRDO Luxury <span className="d_block">Turkish Spa Towels and ganic Bamboo</span> <span className="d_block">Robes 12 PC set</span></p>
               <div className="d-flex align_center padding_bttn">
-              <a href="https://www.instagram.com/" className="txt_clr_1 font_family_hind fs_24 fw_600">$159.99</a>
+              <p className="txt_clr_1 font_family_hind fs_24 fw_600">$159.99</p>
               <p className="txt_clr_2 font_family_hind fs_16 fw_400 pading_para linee">$199.99</p>
               <button className="fw_600 font_16 font_family_hind txt_clr_3 bttn_add margin_bttn">ADD CART</button>
               </div>
@@ -55,7 +55,7 @@ function App() {
               <img  className="w_100 card_img_radius img_height" src={fifth} alt="" />
               <p className="font_family_open txt_clr fs_16 fw_400 padding_para">Concetti Di-Lusso ALESANDRDO Luxury <span className="d_block">Turkish Spa Towels and ganic Bamboo</span> <span className="d_block">Robes 12 PC set</span></p>
               <div className="d-flex align_center padding_bttn">
-              <a href="https://www.instagram.com/" className="txt_clr_1 font_family_hind fs_24 fw_600">$59.99</a>
+              <p className="txt_clr_1 font_family_hind fs_24 fw_600">$59.99</p>
               <p className="txt_clr_2 font_family_hind fs_16 fw_400 pading_para linee">$199.99</p>
               <button className="fw_600 font_16 font_family_hind txt_clr_3 bttn_add margin_bttn">ADD CART</button>
               </div>
